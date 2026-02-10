@@ -19,4 +19,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-wtom-181717?logo=github)](https://github.com/wtom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wolfgang%20Tom-0A66C2?logo=linkedin)](https://linkedin.com/in/wolfgang-tom-73a6a911a)
-📄 [Full CV](cv.md)
+[![CV](https://img.shields.io/badge/CV-Full%20Version-2ea44f)](cv.md)
