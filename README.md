@@ -1,19 +1,25 @@
 # Hi, I'm Wolfgang 👋
 
-**Lead Software Engineer** · Co-Founder & CTO · Hamburg, Germany
+**Senior / Lead Backend Engineer** · Ruby on Rails · Python · Remote · Hamburg, Germany
 
 ---
 
 ### What I do
 
-🔧 Building scalable backend systems with **Ruby on Rails** and **Python** for 20+ years
-🚀 Co-Founder & CTO of **[Popometer](https://popometer.io)** — a sim-racing telemetry platform
-🌡️ Core Contributor to **[Better Thermostat](https://github.com/KartoffelToby/better_thermostat)** — 43+ merged PRs
-💼 Lead Software Engineer at **[9flats.com](https://www.9flats.com)** & **[Leiterkontor](https://www.leiterkontor.de)**
+I build and operate backend systems, APIs, and data-heavy products with a focus on **Ruby on Rails** and **Python**.
 
-### Tech Stack
+- Building **[Popometer](https://popometer.io)**, a sim-racing telemetry and analysis platform
+- Working on backend and platform engineering for **[9flats.com](https://www.9flats.com)**
+- Building custom Rails-based commerce systems at **[Leiterkontor](https://www.leiterkontor.de)**
+- Contributing Python code to **[Better Thermostat](https://github.com/KartoffelToby/better_thermostat)**
 
-`Ruby` `Python` `PHP` `JavaScript` `Rails` `Laravel` `MySQL` `PostgreSQL` `Redis` `Elasticsearch` `Docker` `AWS`
+### Focus
+
+`Ruby on Rails` `Python` `APIs` `Backend Architecture` `Data Processing` `MySQL/MariaDB` `PostgreSQL` `Redis` `Elasticsearch` `Docker` `AWS` `Remote Collaboration`
+
+### Looking for
+
+I am open to **remote Senior / Lead Backend Engineer roles**, especially in product-focused teams that value ownership, pragmatic engineering, and async collaboration.
 
 ### Links
 
