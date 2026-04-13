@@ -1,132 +1,153 @@
 # Wolfgang Tom
 
-**Lead Software Engineer** · Ruby & Python · Hamburg, Germany
+**Senior / Lead Backend Engineer** · Ruby on Rails · Python · Remote · Hamburg, Germany
 
 [![GitHub](https://img.shields.io/badge/GitHub-wtom-181717?logo=github)](https://github.com/wtom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wolfgang%20Tom-0A66C2?logo=linkedin)](https://linkedin.com/in/wolfgang-tom-73a6a911a)
 
 ---
 
-## 🚀 Summary
+## Summary
 
-Senior Software Engineer with 20+ years of experience in backend development and system architecture. Specializing in **Ruby on Rails** and **Python** with deep expertise in PHP, DevOps, and IoT. Co-Founder & CTO of [Popometer](https://popometer.io), a sim-racing telemetry platform. Active open-source contributor with **1,100+ GitHub contributions/year** and **43+ merged Pull Requests** on the [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) project. Proven track record in technical leadership and architecting scalable platforms.
+Senior software engineer with 20+ years of experience building and operating backend systems, APIs, data-heavy products, and internal platforms. Strong focus on **Ruby on Rails** and **Python**, with hands-on ownership across architecture, delivery, operations, and long-term maintenance.
+
+I work best in remote or async-first environments where senior engineers are expected to take responsibility, reduce complexity, and move product work forward without heavy supervision. My background combines **technical leadership**, **hands-on implementation**, **legacy modernization**, **scaling**, and **product-minded engineering**.
+
+Recent work includes co-founding **[Popometer](https://popometer.io)**, a sim-racing telemetry platform, leading backend and platform work for **[9flats.com](https://www.9flats.com)**, and contributing production-quality Python code to **[Better Thermostat](https://github.com/KartoffelToby/better_thermostat)**.
 
 ---
 
-## 🛠 Technical Skills
+## Core Strengths
+
+- Ruby on Rails backend architecture and long-lived product development
+- Python application development and open-source collaboration
+- API design, integrations, data pipelines, and telemetry-heavy workloads
+- Relational databases, query optimization, and replication-aware operations
+- Legacy codebase takeover, modernization, and pragmatic refactoring
+- Remote collaboration, technical ownership, code review, and delivery discipline
+
+---
+
+## Technical Skills
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Ruby · Python · PHP · JavaScript · HTML · CSS · Rust |
-| **Frameworks** | Ruby on Rails · Laravel · Flask · Django · Node.js |
-| **Databases** | MySQL (Optimization & Architecture) · PostgreSQL · Redis · Elasticsearch |
-| **DevOps & Tools** | Docker · AWS · CI/CD Pipelines · Git · Brakeman · GitHub Actions |
-| **APIs** | REST · GraphQL |
-| **Methodologies** | Scrum · Agile · Code Review · TDD |
-| **IoT & Automation** | Home Assistant · Zigbee (ZHA) · Smart Home Integrations |
+| **Languages** | Ruby · Python · PHP · JavaScript |
+| **Frameworks** | Ruby on Rails · Laravel · Flask · Django |
+| **Databases** | MySQL · MariaDB · PostgreSQL · Redis · Elasticsearch |
+| **Platform / DevOps** | Docker · AWS · CI/CD · GitHub Actions · Linux |
+| **Architecture** | REST APIs · background jobs · integrations · data processing |
+| **Ways of Working** | Remote collaboration · code review · testing · incremental delivery |
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Co-Founder & CTO
-**[Popometer](https://popometer.io)** · Hamburg · Remote · Aug 2022 – Present
+**[Popometer](https://popometer.io)** · Remote · Aug 2022 – Present
 
-Co-founded a sim-racing telemetry and performance analysis platform supporting Assetto Corsa, ACC, iRacing, rFactor2, LMU, and Automobilista 2:
-- Built the full platform from scratch: telemetry data recording, analysis, and comparison with professional drivers
-- Developed advanced data visualization with Chart.js (lap times, inputs, track positioning, focus analysis)
-- Implemented team features, subscription system, and Steam authentication
-- Built a custom desktop recorder app for real-time telemetry capture
-- Overlay feature for live reference data comparison during driving sessions
+Co-founded and built a sim-racing telemetry platform from the ground up.
 
-### Lead Software Engineer
-**[9flats.com](https://www.9flats.com)** · Hamburg · Jan 2018 – Present
-
-- Took over a fragmented codebase after the previous team dissolved; onboarded independently without handover
-- Leading a team of 3 developers on a vacation rental booking platform competing with Airbnb
-- Architecting and scaling core services (Ruby on Rails), including server administration and database replication
-- Scaling inbound and outbound REST API integrations with partner booking platforms
-- Building modern CI/CD pipelines for stable and rapid deployments
+- Designed and implemented the backend and product architecture for telemetry ingestion, storage, analysis, and lap comparison
+- Built product features around subscriptions, team functionality, authentication, overlays, and driver performance workflows
+- Worked across backend, data handling, product decisions, infrastructure, and day-to-day technical ownership
+- Developed a custom desktop recorder workflow for real-time telemetry capture across multiple racing titles
+- Shipped a data-heavy product that combines backend reliability with analysis and visualization requirements
 
 ### Lead Software Engineer
-**[Leiterkontor](https://www.leiterkontor.de)** · Hamburg · Mar 2019 – Present
+**[9flats.com](https://www.9flats.com)** · Hamburg / Remote-friendly · Jan 2018 – Present
 
-- Built a custom multi-shop e-commerce platform from scratch in Ruby on Rails, replacing the initial VersaCommerce setup which proved too rigid
-- Implemented full checkout system, Elasticsearch-powered product search, and AI-based best price prediction
-- Managing Google Ads campaigns for customer acquisition
-- Integrated Amazon MWS & SP-API and eBay API for marketplace connectivity, including custom-built solutions
-- Developed custom accounting integration for seamless bookkeeping workflows
-- Supported ~400x order volume growth since launch through scalable architecture
+Senior backend engineer on a vacation rental platform with high integration and operational complexity.
+
+- Took over a fragmented Rails codebase after team turnover and became productive without formal handover
+- Led technical work across core booking flows, partner integrations, platform stability, and ongoing delivery
+- Worked on API integrations, database replication topics, server operations, and release-oriented engineering
+- Supported a small engineering team while remaining deeply hands-on in architecture and implementation
+- Helped build and improve CI/CD processes for more stable and repeatable deployments
+
+### Lead Software Engineer
+**[Leiterkontor](https://www.leiterkontor.de)** · Remote · Mar 2019 – Present
+
+Built and evolved a custom e-commerce platform in Ruby on Rails.
+
+- Replaced an inflexible off-the-shelf commerce setup with a custom Rails platform tailored to the business
+- Built core commerce functionality including checkout, search, pricing-related logic, and marketplace integrations
+- Integrated Amazon and eBay interfaces, plus accounting-related workflows and business-specific automation
+- Supported substantial business growth through pragmatic architecture and continuous product iteration
+- Combined backend engineering with technical product ownership in a lean environment
 
 ### Technical Director
 **[Department M GmbH & Co. KG](https://department-m.com)** · Hamburg · Nov 2013 – Nov 2017
 
-- Led development of tailored web solutions for corporate clients
-- Managed cross-functional teams and owned technical roadmaps
-- Built Laravel-based applications (CRUD, localization, admin panels)
-- Full-stack development and REST APIs for the ZANUM co-sports app (2016–2017), including backend architecture and native Android app development (Java)
+- Led development of custom web applications for client projects
+- Owned technical direction, delivery quality, and team coordination
+- Built Laravel-based business applications, admin systems, and REST APIs
+- Contributed backend architecture and full-stack implementation for product work including the ZANUM co-sports app
 
 ### Freelance Software Engineer
 **[tomjoks](https://tomjoks.com)** · Hamburg · Jul 2008 – Oct 2013
 
-- Independent software development and consulting, key client: **Paramount Pictures**
-- Full-stack web development (PHP, JavaScript, MySQL)
+- Delivered custom web development and consulting projects for clients including Paramount Pictures
+- Built full-stack applications with PHP, JavaScript, and MySQL
+- Worked directly with stakeholders, scoped solutions, and shipped production code independently
 
 ### Lead of Software Engineering *(Freelance Project)*
 **TalentRun GmbH** · Hamburg · May 2009 – Jan 2011
 
-- Led development of a live online karaoke platform where users could sing, record, and compete in real-time
-- Built backend infrastructure for audio/video recording, conversion, and live streaming (PHP, Ruby)
-- Implemented voting and competition features for user-generated karaoke performances
-- Responsible for overall technical architecture and team leadership
+- Led engineering for a live online karaoke platform with recording, conversion, and competition features
+- Built backend infrastructure for media handling, streaming-related workflows, and user interaction features
+- Owned architecture and technical implementation in a fast-moving product setting
 
 ### Software Developer
 **ePrint Factory** · Hamburg · Jun 2004 – Jun 2008
 
-- Developed interactive Flash landing pages and PHP backends for fragrance sample campaigns for brands like Hugo Boss, Prada, and Lacoste
-- Built animated campaign microsites that captured user data, then generated print-ready PDFs/CSVs for physical postcard production with fragrance samples
-- End-to-end workflow: Flash animations → user data collection → backend processing → print file generation → transfer to print facility
+- Developed campaign landing pages and PHP backends for large consumer brands
+- Built end-to-end workflows from data capture to print-ready asset generation and fulfillment handoff
+- Worked across frontend interactions, backend logic, and production-oriented processing pipelines
 
-#### Spinoff: POSTCARDO (Nov 2006 – Jun 2008)
+#### Spinoff: POSTCARDO
+**Co-Founder / Developer** · Nov 2006 – Jun 2008
 
-- Co-founded and built a digital postcard platform from scratch in PHP where users could design postcards online, which were then physically printed and mailed to recipients
-- Full-stack development including frontend, backend, and print-workflow integration
+- Co-built an online postcard platform with digital creation and physical delivery workflows
+- Developed the product across frontend, backend, and print integration layers
 
 ---
 
-## 🏗 Open Source & Projects
+## Open Source
 
 ### [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) · Python
-**Core Contributor** · 43+ Pull Requests · since 2022
+**Core Contributor** · since 2022
 
-Significant contributions to this popular Home Assistant integration (800+ Stars, 159 Forks):
-- Developed core heating algorithms: time-based heating, PID control, and MPC (Model Predictive Control)
-- Implemented direct valve control for supported TRV hardware
-- Implemented generic temperature calibration for various TRV manufacturers
-- DevContainer setup for streamlined development environment
-- Added support for SONOFF TRVZB and other Zigbee thermostats
+Contributor to a widely used Home Assistant integration.
 
----
-
-## 🏆 GitHub Highlights
-
-- **1,167 Contributions** in the last year (93% Commits, 4% Issues, 2% Pull Requests, 1% Code Review)
-- **GitHub Achievements:** Pair Extraordinaire ×2 · Galaxy Brain ×2 · Pull Shark ×2 · Quickdraw · Arctic Code Vault Contributor
-- **3 GitHub Organizations:** [9flats](https://github.com/9flats) · [popometer](https://github.com/popometer) · [leiterkontor](https://github.com/leiterkontor)
+- Implemented and improved heating logic including time-based control, PID, and MPC-related work
+- Added support for device-specific valve control and temperature calibration behavior
+- Contributed development environment improvements and hardware support
+- Worked in an established open-source codebase with review, collaboration, and production user impact
 
 ---
 
-## 🎓 Education
+## Selected Signals
+
+- 20+ years of professional software engineering experience
+- Lead / CTO experience in both product and client-facing environments
+- Hands-on ownership across code, architecture, operations, and delivery
+- Open-source contributions with dozens of merged pull requests
+- Based in Hamburg, available for remote-first roles
+
+---
+
+## Education
 
 **Computer Science Studies** · PTL Wedel · Aug 2000 – Jul 2004
 Focus: Software Engineering
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Level |
 |---|---|
-| 🇩🇪 German | Native |
-| 🇬🇧 English | Fluent |
-| 🇪🇸 Spanish | Basic / Conversational |
+| German | Native |
+| English | Fluent |
+| Spanish | Basic / Conversational |
